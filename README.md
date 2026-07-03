@@ -1,25 +1,34 @@
-# Xhaevrithon
-**The official digital headquarters of Xhaevrithon.**
-Developing integrated solutions and products for a modern era.
+# Xhaevrithon.github.io
+**Welcome to the official GitHub Pages site of Xhaevrithon.**
+
+This repository hosts the personal site for Xhaevrithon, serving as the central hub for projects, ventures, and digital presence.
 
 ---
 
-## Our Ventures
-*   **Software & Technology:** Innovative tools and systems architecture.
-*   **Products & Design:** High-quality goods tailored for the modern consumer.
+## 🌐 About
+Xhaevrithon is dedicated to developing integrated solutions and products for a modern era.  
+This site showcases our portfolio, updates, and future initiatives.
 
 ---
-## Portfolio & Projects
-Here are the current ventures and tools developed under the Xhaevrithon ecosystem:
 
-*   **[OS-Simulator-CPP](https://github.com/xhaevrithon/OS-Simulator-CPP)**: An educational C++ tool simulating operating system processes and memory management.
-*   *More projects coming soon...*
----
-## Contact
-For inquiries, collaborations, or product information, please reach out to us at:
-📧 **xhaevrithon@gmail.com**
+## 🚀 Projects & Portfolio
+Explore our ecosystem of tools and ventures:
 
-*Stay tuned as we continue to expand our ecosystem.*
+- **[OS-Simulator-CPP](https://github.com/xhaevrithon/OS-Simulator-CPP)** — An educational C++ tool simulating operating system processes and memory management.
+- More projects coming soon…
 
 ---
-*Built by @xhaevrithon*
+
+## 📂 Special Repository
+Looking for the original special repo?  
+👉 **[Visit the Xhaevrithon repository](https://github.com/xhaevrithon/xhaevrithon)**
+
+---
+
+## 📬 Contact
+For inquiries, collaborations, or product information, reach out at:  
+**xhaevrithon@gmail.com**
+
+---
+
+*Built and maintained by @xhaevrithon*
